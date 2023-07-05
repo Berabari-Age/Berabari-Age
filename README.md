@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Berabari-Age
+- 👀 I’m interested in learning machine language such as python
+- 🌱 I’m currently learning power BI
+- 💞️ I’m looking to collaborate on python learning
+- 📫 How to reach me on WhatsApp 09019469492
